@@ -11,4 +11,4 @@ str2[i]=str1[i];
 str2[len]='\0';
 return str2;
 }
-Remote edit B21031503王蕊
+local edit B21031503王蕊
